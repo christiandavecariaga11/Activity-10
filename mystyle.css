@@ -1,0 +1,29 @@
+.a1{
+    text-decoration: none;
+    margin: 10px;
+    color: darkkhaki;
+}
+.a1:hover{
+    text-decoration-line: underline;
+}
+header{
+    background-color: darkgreen;
+    border: 5px solid greenyellow;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.a2{
+    text-decoration: none;
+    margin: 10px;
+    border:2px solid yellowgreen;
+    padding: 5px;
+    color:darkkhaki;
+}
+.a2:hover{
+    background-color: gray;
+    border-radius: 10px;
+    color: black;
+}
